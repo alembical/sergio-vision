@@ -1,23 +1,23 @@
 import FloatingNav from "@/components/FloatingNav";
-import Hero from "@/components/Hero";
-import Philosophy from "@/components/Philosophy";
-import PhaseOne from "@/components/PhaseOne";
-import OmniChannel from "@/components/OmniChannel";
-import AwareSystem from "@/components/AwareSystem";
-import FranchiseGrid from "@/components/FranchiseGrid";
-import RoadmapFooter from "@/components/RoadmapFooter";
+import ScrollProgress from "@/components/ScrollProgress";
+import Cover from "@/components/Cover";
+import SajtJeTu from "@/components/SajtJeTu";
+import Bridge from "@/components/Bridge";
+import Moduli from "@/components/Moduli";
+import SledeciKorak from "@/components/SledeciKorak";
+import Cta from "@/components/Cta";
 
 export default function Home() {
   return (
     <main className="w-full relative selection:bg-oranje selection:text-obsidian antialiased">
+      <ScrollProgress />
       <FloatingNav />
-      <Hero />
-      <Philosophy />
-      <PhaseOne />
-      <OmniChannel />
-      <AwareSystem />
-      <FranchiseGrid />
-      <RoadmapFooter />
+      <Cover />
+      <SajtJeTu />
+      <Bridge />
+      <Moduli />
+      <SledeciKorak />
+      <Cta />
     </main>
   );
 }

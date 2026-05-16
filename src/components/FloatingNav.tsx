@@ -58,7 +58,12 @@ export default function FloatingNav() {
         className="mx-auto rounded-[3rem] flex items-center justify-between pointer-events-auto transition-all bg-transparent border border-transparent p-[1rem_1.5rem]"
       >
         <button onClick={scrollToTop} className="flex items-center gap-2 cursor-pointer transition-opacity duration-300 hover:opacity-80">
-          <img src="/images/sergio-logo.svg" alt="Sergios Skadecenter" className="h-8 md:h-10 w-auto" />
+          <img
+            src="/images/sergio-logo.svg"
+            alt="Sergios Skadecenter"
+            className="h-8 md:h-10 w-auto"
+            style={{ filter: "brightness(0) invert(1)" }}
+          />
         </button>
 
         <div className="flex items-center gap-6">
@@ -78,7 +83,7 @@ export default function FloatingNav() {
           </div>
 
           <button
-            onClick={() => smoothScroll('philosophy')}
+            onClick={() => smoothScroll('sajt')}
             className="hidden sm:block group relative overflow-hidden rounded-full bg-offwhite px-6 py-2 font-menu font-semibold text-obsidian transition-transform duration-300 ease-[cubic-bezier(0.25,0.46,0.45,0.94)] hover:-translate-y-px hover:scale-[1.03]"
           >
             <span className="relative z-10 group-hover:text-oranje transition-colors">{t.nav.explore}</span>

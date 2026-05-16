@@ -1,63 +1,62 @@
 {
   "nav": {
-    "explore": "Kako funkcioniše"
+    "explore": "Vidi dalje"
   },
-  "hero": {
-    "badge": "TILLID · KVALITET · PREMIUM",
+  "cover": {
+    "kicker": "PREDLOG · MAJ 2026",
     "headline": "Sergios Skadecenter.",
-    "subheadline": "Radionica koja radi drugačije.",
-    "promise": "Tvoja radionica već radi premium posao — Glasurit boja, osiguranja, DTC trkački auti. Ovo je sajt i alati koji to pokazuju svetu.",
-    "cta": "Pogledaj viziju"
+    "subhead": "Sajt je napravljen. A ovo je šta još može da bude.",
+    "attribution": "Pripremljeno za Sergio Djurdjevic · MakerToo"
   },
-  "philosophy": {
-    "shared_effort_title": "Tillid + Kvalitet, jedan brend",
-    "shared_effort_body": "Svaki auto koji izađe iz tvoje radionice nosi isto obećanje — tri godine garancije, Glasurit premium boja, pažnja kakvu ne vide svugde. To je brend koji se gradi autom po autom.",
-    "secure_yours_title": "Mi radimo na svom poslu kao i na tvojim kolima",
-    "secure_yours_body": "Sajt koji pravimo za tebe radi ono što mi radimo za naše klijente — odražava stvarni kvalitet rada, ne generičku priču. Svaka kartica, svaka fotografija, svaki tekst je Sergios Skadecenter."
+  "sajt": {
+    "kicker": "01 · SAJT",
+    "title": "Sajt je tu. Spreman je.",
+    "body": "Otvori i pogledaj — na telefonu ili na laptopu. Sve što je tu odražava ono što već radiš: Glasurit, osiguranja, garancija, ekipa.",
+    "body_alive": "Sajt se menja kako ti treba, kako rasteš. Bez brige.",
+    "open_cta": "Otvori sajt u novom prozoru"
   },
-  "phase1": {
-    "title": "Šta radimo",
-    "headline": "Tri stuba. Jedna radionica.",
-    "point1_title": "Lakering & boje",
-    "point1_body": "Glasurit (BASF premium tier) — ista boja koju koriste ovlašćeni Mercedes i BMW servisi. Tri godine garancije na svaki posao. DTC trkački auti su posebna priča — tu nema kompromisa.",
-    "point2_title": "Skadereparation",
-    "point2_body": "Fordels-værksted za Tryg, Alka, TJM, If i Topdanmark. Kupac bira gde ide — i bira tebe. Lånebil uključen, SKAD sertifikat, lanac odgovornosti od prijema do preuzimanja.",
-    "point3_title": "DTC trkački auti",
-    "point3_body": "Daytona, Porsche, Kawasaki — radionica koja zna razliku između salonskog i trkačkog laka. Sergio i Kire rade na autima koji se takmiče, ne samo voze. Ovo je specialitet koji se ne reklamira svugde."
+  "bridge": {
+    "kicker": "02 · DALJE",
+    "line": "Imaš osnovu. Sve dalje gradimo zajedno."
   },
-  "phase2": {
-    "title": "Moduli koji dolaze",
-    "headline": "Polako, modul po modul.",
-    "ch1_title": "AI procena štete",
-    "ch1_body": "Kupac povuče fotografiju štete na telefonu. Dobije grubu procenu — koliko DKK, koliko dana, koji osiguravač to pokriva. Manje poziva, jasnija odluka pre nego što uopšte dođe kod tebe.",
-    "ch2_title": "Gde mi je auto?",
-    "ch2_body": "Kupac vidi gde mu se auto nalazi u procesu — od prijema do gotovog. Pet jasnih koraka. Flemming iz Slangerupa vidi status svojih Mercedesa isto kao i svaki drugi kupac. Manje telefona, više poverenja.",
-    "ch3_title": "Garancijska kartica",
-    "ch3_body": "Tri godine garancije, jedan link. Kupac proveri šta mu je pokriveno i do kada — sa telefona, u bilo kom trenutku. Vezano za registarski broj auta. Nema fizičkog papira.",
-    "ch4_title": "MitID predaja ključeva",
-    "ch4_body": "Kupac ostavi auto van radnog vremena. Potpisuje predaju MitID digitalnim identitetom — registarski broj, opis štete, dozvoljeni iznos. Pravno čisto. Lanac odgovornosti od prijema do preuzimanja."
+  "moduli": {
+    "kicker": "03 · MODULI",
+    "title": "Šta još može da bude.",
+    "intro": "Ovo su primeri. Krećemo od onoga što ti najviše treba — polako, korak po korak. Može još puno toga, ovo je samo deo.",
+    "card1_title": "AI procena štete iz fotografije",
+    "card1_body": "Kupac povuče fotografiju štete na telefonu. Sistem mu odmah šalje grubu procenu — koliko DKK, koliko dana, koji osiguravač to pokriva. Smanjuje broj poziva i pomaže kupcu da donese odluku pre nego što uopšte dođe kod tebe.",
+    "card2_title": "Gde mi je auto?",
+    "card2_body": "Kupac vidi gde mu se auto trenutno nalazi u procesu — od prijema do gotovog. Pet jasnih koraka. Manje telefona, više poverenja. Flemming iz Slangerupa vidi status svojih Mercedesa isto kao i svaki drugi kupac.",
+    "card3_title": "Garancijska kartica",
+    "card3_body": "Tri godine garancije, jedan link. Kupac proveri sam šta mu je pokriveno i do kada. Nema fizičkog papira. Sve je vezano za registarski broj auta i dostupno instant — sa telefona, u bilo kom trenutku.",
+    "card4_title": "MitID predaja ključeva",
+    "card4_body": "Kupac ostavi auto i ključeve i van radnog vremena. Ključeve stavlja u sigurnu kutiju i potpisuje predaju MitID digitalnim identitetom — registarski broj, opis štete, dozvoljeni iznos. Pravno čisto. Lanac odgovornosti od prijema do preuzimanja.",
+    "card5_title": "Mercedes i dileri",
+    "card5_body": "Flemming i ekipa iz Gørløse Autoimport u Slangerupu ti šalju kola redovno. Dobiju svoj pregled statusa — gde je auto, kada je gotovo, da li je spremno za preuzimanje. Ti dobiješ jasniju radnu nedelju i partnere koji znaju da mogu da računaju na tebe.",
+    "card6_title": "Tvoj radni sto",
+    "card6_body": "Sve gore na jednom mestu. Leadovi sa sajta, status svakog auta, dileri, garancije, ekipa — jedna tabla iz koje radi tvojih deset ljudi. Nije tri aplikacije. Nije devet panela. Jedno."
   },
-  "aware": {
-    "title": "Tvoj radni sto",
-    "headline": "Sve na jednom mestu.",
-    "body1": "Leadovi sa sajta, status svakog auta, dileri, garancije, ekipa — jedna tabla iz koje radi tvojih deset ljudi. Nije tri aplikacije. Nije devet panela. Jedno.",
-    "body2": "Sajt · Kartica · Tabla · Ekipa",
-    "result": "Ti se brineš za radionicu. Mi se brinemo za alate koji je pokazuju svetu onako kako zaslužuje."
+  "korak": {
+    "kicker": "04 · SLEDEĆI KORAK",
+    "title": "Jedan praktičan korak.",
+    "body": "Sledeći korak je tvoj server. Kupi preko linka — popust se primenjuje automatski.",
+    "button_label": "Otvori Hostinger sa popustom",
+    "button_note": "VPS 8, 12 meseci.",
+    "notes_title": "Par sitnica koje treba da znaš",
+    "notes": [
+      "Tokom kupovine obavezno unesi CVR broj firme — bez toga plaćaš 25% PDV više.",
+      "Uzmi 12 meseci i bez dodatnih opcija — to je sve što treba. Sledeće godine gledamo za bolju ponudu.",
+      "Kad završiš kupovinu, pošalji mi pristupne podatke (email + lozinka).",
+      "Ostalo sredim ja — sergioskadecenter.dk ide online."
+    ]
   },
-  "phase3": {
-    "title": "Dileri i partneri",
-    "headline": "Flemming i Gørløse Autoimport.",
-    "body": "Mercedes-Benz ovlašćeni servis u Slangerupu, 8km severno. Mehanika da — boja ne. Redovni mesečni volumen koji dolazi direktno kod tebe.",
-    "offer": "Flemming i ekipa dobijaju pregled statusa svakog auta — gde je, kada je gotovo, da li je spremno. Jasnija radna nedelja za obe strane.",
-    "outcome": "Partneri koji znaju da mogu da računaju na tebe. To se gradi autom po autom, godinama."
-  },
-  "roadmap": {
-    "title": "Sledeći korak",
-    "step1": "Pogledaj sajt: sergioskadecenter.dk je spreman — pogleda ga na telefonu i na ekranu",
-    "step2": "Kupi server: Hostinger link sa popustom — server ide na njega, sajt odmah radi",
-    "step3": "Pošalji pristupne podatke: samo mi prosledi login i ja sredim sve ostalo",
-    "step4": "Puštamo sergioskadecenter.dk online: DNS, konfiguracija, test — sve ja",
-    "step5": "Postepeno dodajemo module: krećemo od onoga što ti najviše treba, polako",
-    "cta": "Odgovori — spreman sam"
+  "cta": {
+    "kicker": "05 · POŠALJI",
+    "title": "Kada platiš Hostinger, krećemo.",
+    "line": "Pošalji mi pristupne podatke i sajt ide online.",
+    "button": "Pošalji pristupne podatke",
+    "note": "Imaš primedbe na sajt? Napiši mi u istom mailu.",
+    "signature_1": "— Alex",
+    "signature_2": "MakerToo"
   }
 }
