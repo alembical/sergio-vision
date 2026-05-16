@@ -1,0 +1,38 @@
+@import "tailwindcss";
+
+@theme {
+  --color-obsidian: #0b0c10;
+  --color-charcoal: #1f2833;
+  --color-oranje: #FF6A00; /* Vibrant Dutch Orange */
+  --color-amber: #FF9E00; /* Lighter Gold/Amber */
+  --color-offwhite: #c5c6c7;
+  
+  /* Retain fallback legacy variables just in case any tailwind arbitrary values missed replacement */
+  --color-cyan: #FF6A00;
+  --color-teal: #FF9E00;
+
+  --font-sans: var(--font-outfit), sans-serif;
+  --font-menu: var(--font-space), var(--font-outfit), sans-serif;
+  --font-drama: var(--font-playfair), serif;
+  --font-mono: var(--font-jetbrains), monospace;
+}
+
+body {
+  background-color: var(--color-obsidian);
+  color: var(--color-offwhite);
+}
+
+/* Hide scrollbar for seamless cinematic feel */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--color-obsidian);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-charcoal);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-oranje);
+}

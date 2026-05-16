@@ -1,0 +1,63 @@
+{
+  "nav": {
+    "explore": "Sådan fungerer det"
+  },
+  "hero": {
+    "badge": "TILLID · KVALITET · PREMIUM",
+    "headline": "Sergios Skadecenter.",
+    "subheadline": "Et værksted der arbejder anderledes.",
+    "promise": "Dit værksted leverer allerede premium arbejde — Glasurit lak, forsikringsskader, DTC racerbiler. Her er hjemmesiden og værktøjerne der viser det til verden.",
+    "cta": "Se visionen"
+  },
+  "philosophy": {
+    "shared_effort_title": "Tillid + Kvalitet, ét brand",
+    "shared_effort_body": "Hver bil der forlader dit værksted bærer det samme løfte — tre års garanti, Glasurit premium lak, opmærksomhed du ikke finder alle steder. Det er det brand der bygges bil for bil.",
+    "secure_yours_title": "Vi arbejder på vores fag som du arbejder på dine biler",
+    "secure_yours_body": "Den hjemmeside vi laver til dig gør det samme som vi gør for vores kunder — afspejler det virkelige kvalitetsarbejde, ikke en generisk fortælling. Hvert kort, hvert billede, hver tekst er Sergios Skadecenter."
+  },
+  "phase1": {
+    "title": "Hvad vi gør",
+    "headline": "Tre søjler. Ét værksted.",
+    "point1_title": "Lakering & farver",
+    "point1_body": "Glasurit (BASF premium tier) — samme lak som autoriserede Mercedes og BMW-værksteder bruger. Tre års garanti på hvert job. DTC racerbiler er en særlig disciplin — her er der ingen kompromiser.",
+    "point2_title": "Skadereparation",
+    "point2_body": "Fordelsværksted for Tryg, Alka, TJM, If og Topdanmark. Kunden vælger selv — og vælger dig. Lånebil inkluderet, SKAD-godkendt, ansvarskæde fra modtagelse til afhentning.",
+    "point3_title": "DTC racerbiler",
+    "point3_body": "Daytona, Porsche, Kawasaki — et værksted der kender forskel på salon- og raceringslak. Sergio og Kire arbejder på biler der konkurrerer, ikke bare kører. Det er en specialitet man ikke ser overalt."
+  },
+  "phase2": {
+    "title": "Moduler der kommer",
+    "headline": "Stille og roligt, modul for modul.",
+    "ch1_title": "AI-vurdering af skade",
+    "ch1_body": "Kunden tager et billede af skaden på telefonen. Får et groft overslag — hvor mange DKK, hvor mange dage, hvilket forsikringsselskab dækker. Færre opkald, klarere beslutning før de overhovedet kommer til dig.",
+    "ch2_title": "Hvor er min bil?",
+    "ch2_body": "Kunden ser hvor bilen er i processen — fra modtagelse til færdig. Fem klare trin. Flemming fra Slangerup ser status på sine Mercedes ligesom alle andre kunder. Færre telefonopkald, mere tillid.",
+    "ch3_title": "Garantikort",
+    "ch3_body": "Tre års garanti, ét link. Kunden tjekker selv hvad der er dækket og hvornår — fra telefonen, til enhver tid. Knyttet til bilens registreringsnummer. Intet fysisk papir.",
+    "ch4_title": "MitID nøgleaflevering",
+    "ch4_body": "Kunden afleverer bilen uden for åbningstid. Underskriver afleveringen med MitID-digital identitet — registreringsnummer, skadesbe skrivelse, godkendt beløb. Juridisk rent. Ansvarskæde fra modtagelse til afhentning."
+  },
+  "aware": {
+    "title": "Dit arbejdsbord",
+    "headline": "Alt på ét sted.",
+    "body1": "Leads fra hjemmesiden, status på hver bil, forhandlere, garantier, personale — ét overblik som dine ti medarbejdere arbejder ud fra. Ikke tre apps. Ikke ni paneler. Ét.",
+    "body2": "Hjemmeside · Kort · Overblik · Team",
+    "result": "Du passer værkstedet. Vi passer de værktøjer der viser det til verden, som det fortjener."
+  },
+  "phase3": {
+    "title": "Forhandlere og partnere",
+    "headline": "Flemming og Gørløse Autoimport.",
+    "body": "Mercedes-Benz autoriseret værksted i Slangerup, 8km mod nord. Mekanik ja — lak nej. Regelmæssigt månedligt volumen der kommer direkte til dig.",
+    "offer": "Flemming og teamet får statusoverblik på hver bil — hvor den er, hvornår den er færdig, om den er klar til afhentning. En klarere arbejdsuge for begge parter.",
+    "outcome": "Partnere der ved de kan regne med dig. Det bygges bil for bil, år for år."
+  },
+  "roadmap": {
+    "title": "Næste skridt",
+    "step1": "Se hjemmesiden: sergioskadecenter.dk er klar — tjek den på telefonen og på skærmen",
+    "step2": "Køb server: Hostinger-link med rabat — serveren er din, hjemmesiden kører straks",
+    "step3": "Send adgangsoplysninger: videresend bare login til mig, og jeg klarer resten",
+    "step4": "Vi sætter sergioskadecenter.dk online: DNS, konfiguration, test — det er mit job",
+    "step5": "Vi tilføjer moduler løbende: starter med det du har mest brug for, i dit tempo",
+    "cta": "Svar — jeg er klar"
+  }
+}
